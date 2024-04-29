@@ -1,0 +1,35 @@
+Serial No.:	642000244
+RecNo:	5
+Sample ID:	5
+Patient ID:	
+Patient Name:	
+Mode:	Human
+Doctor:	
+Age:	0	years	
+Birth(ymd):	00000000
+Sex:	-
+Test date(ymd):	20201021
+Test time(hm):	050700
+Param	Flags	Value	Unit	[min-max]
+WBC	-	4.71	10^9/l	[5.00-11.60]
+LYM	 	1.84	10^9/l	[1.30-4.00]
+MON	-	0.18	10^9/l	[0.30-1.00]
+GRA	 	2.69	10^9/l	[2.40-7.60]
+LY%	 	39.2	%	[19.1-48.5]
+MO%	-	 3.8	%	[ 4.5-12.1]
+GR%	 	57.0	%	[43.6-73.4]
+RBC	E	0.0	10^12/l	[3.79-5.78]
+HGB	 	 135	g/l	[ 115- 173]
+HCT	 	0.0	%	[34.00-53.90]
+MCV	E	0.0	fl	[  84-  98]
+MCH	 	0.0	pg	[27.5-32.4]
+MCHC	 	1.0	g/l	[ 317- 342]
+RDWc	 	0.0	%	[11.1-14.0]
+RDWs	 	0.0	fl	[36.2-49.7]
+PLT	E	0.0	10^9/l	[ 156- 342]
+PCT	 	0.0	%	[0.16-0.36]
+MPV	E	0.0	fl	[ 8.3-12.1]
+PDWc	 	0.0	%	[37.8-43.6]
+PDWs	 	0.0	fl	[11.1-19.7]
+PLCC	E	0.0	10^9/l	[  55- 139]
+PLCR	E	0.0	%	[25.30-53.80]
